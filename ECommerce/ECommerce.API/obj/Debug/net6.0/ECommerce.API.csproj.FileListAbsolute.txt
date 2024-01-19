@@ -1,0 +1,270 @@
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\appsettings.Development.json
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\appsettings.json
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.exe
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.deps.json
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.runtimeconfig.json
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.pdb
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.AssemblyReference.cache
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.AssemblyInfoInputs.cache
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.AssemblyInfo.cs
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.CoreCompileInputs.cache
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\scopedcss\bundle\ECommerce.API.styles.css
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.CopyComplete
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\refint\ECommerce.API.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.pdb
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.genruntimeconfig.cache
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ref\ECommerce.API.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Youtube Channels\Indian Guy\Programs\(22-07-17) ECommerce\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\appsettings.Development.json
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\appsettings.json
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.exe
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.deps.json
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.runtimeconfig.json
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.pdb
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.AssemblyReference.cache
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.AssemblyInfoInputs.cache
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.AssemblyInfo.cs
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.CoreCompileInputs.cache
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\scopedcss\bundle\ECommerce.API.styles.css
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.CopyComplete
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\refint\ECommerce.API.dll
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.pdb
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.genruntimeconfig.cache
+D:\Youtube Channels\Indian Guy\2022\09-17 ECommerce\Materials\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ref\ECommerce.API.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\appsettings.Development.json
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\appsettings.json
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.exe
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.deps.json
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.runtimeconfig.json
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.pdb
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.AssemblyReference.cache
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.AssemblyInfoInputs.cache
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.AssemblyInfo.cs
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.CoreCompileInputs.cache
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets\msbuild.ECommerce.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets\msbuild.build.ECommerce.API.props
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ECommerce.API.props
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ECommerce.API.props
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\scopedcss\bundle\ECommerce.API.styles.css
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.CopyComplete
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\refint\ECommerce.API.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.pdb
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.genruntimeconfig.cache
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ref\ECommerce.API.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Humanizer.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.CodeDom.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Text.Json.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Azure.Core.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Azure.Identity.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\appsettings.Development.json
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\appsettings.json
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.exe
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.deps.json
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.runtimeconfig.json
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\ECommerce.API.pdb
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Azure.Core.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Azure.Identity.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Humanizer.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.CodeDom.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Memory.Data.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Text.Json.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.AssemblyReference.cache
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.AssemblyInfoInputs.cache
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.AssemblyInfo.cs
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.CoreCompileInputs.cache
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.MvcApplicationPartsAssemblyInfo.cs
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.MvcApplicationPartsAssemblyInfo.cache
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets\msbuild.ECommerce.API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets\msbuild.build.ECommerce.API.props
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ECommerce.API.props
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ECommerce.API.props
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets.pack.json
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets.build.json
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\staticwebassets.development.json
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\scopedcss\bundle\ECommerce.API.styles.css
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.csproj.CopyComplete
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\refint\ECommerce.API.dll
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.pdb
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ECommerce.API.genruntimeconfig.cache
+F:\krishna 1 E drive\Internship Project\angular\CAMZONE\ECommerce\ECommerce\ECommerce.API\obj\Debug\net6.0\ref\ECommerce.API.dll

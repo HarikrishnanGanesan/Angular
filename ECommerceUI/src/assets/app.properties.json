@@ -1,0 +1,4 @@
+{
+  "apiBaseUrl": "https://localhost:7149/api/Shopping/",
+  "maxItemsPerPage": 10
+}

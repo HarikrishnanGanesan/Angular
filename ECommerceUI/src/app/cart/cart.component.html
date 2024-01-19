@@ -1,0 +1,79 @@
+<!-- cart.component.html -->
+<div class="my-container mx-auto border border-dark">
+  <div class="p-4 border my-rounded-corner">
+      <h3 class="w-25 border text-center py-2 my-rounded-corner">Current Cart</h3>
+      <div *ngIf="usersCart.cartItems.length > 0">
+          <!-- Cart details -->
+          <div class="mt-5">
+              <table class="table w-50 mx-auto table-bordered table-hover my-shadow">
+                  <tbody>
+                      <tr>
+                          <td>Total Items</td>
+                          <td class="fs-5 fw-bold">{{ usersCart.cartItems.length }}</td>
+                      </tr>
+                      <tr>
+                          <td>Total Price</td>
+                          <td class="fs-5 fw-bold text">Rs. {{ usersPaymentInfo.totalAmount }}</td>
+                      </tr>
+                      <tr>
+                          <td>Shipping Charges</td>
+                          <td class="fs-5 fw-bold text-danger">Rs. {{ usersPaymentInfo.shipingCharges }}</td>
+                      </tr>
+                      <tr>
+                          <td>Discount</td>
+                          <td class="fs-5 fw-bold text-success">Rs. {{ usersPaymentInfo.amountReduced }}</td>
+                      </tr>
+                      <tr>
+                          <td>Amount</td>
+                          <td class="fs-5 fw-bold text">Rs. {{ usersPaymentInfo.amountPaid }}</td>
+                      </tr>
+                  </tbody>
+              </table>
+              <div class="d-grid w-50 mx-auto mb-3">
+                  <button class="btn btn-outline-success fs-4" type="button" routerLink="/orders">Order</button>
+              </div>
+          </div>
+
+          <!-- Cart Items -->
+          <h3 class="w-25 border text-center py-2 my-rounded-corner">Cart Items</h3>
+          <div class="card w-250" *ngFor="let cartItem of usersCart.cartItems">
+              <div class="d-flex align-items-center">
+                  <app-product [view]="'currcartitem'" [product]="cartItem.product"></app-product>
+              </div>
+              <div class="quantity-controls">
+                  <button class="btn btn-sm btn-outline-primary" (click)="updateCartItemQuantity(cartItem, 'decrement')">-</button>
+                  <span class="mx-2 text-primary">{{ cartItem.quantity }}</span>
+                  <button class="btn btn-sm btn-outline-primary" (click)="updateCartItemQuantity(cartItem, 'increment')">+</button>
+                  <button class="btn btn-outline-danger fs-4" (click)="removeItemFromCart(cartItem)">Remove</button>
+              </div>
+          </div>
+      </div>
+      <div *ngIf="usersCart.cartItems.length === 0" class="alert alert-warning col-md-12 text-center" role="alert">
+          Your cart is empty.
+      </div>
+  </div>
+
+  <!-- Previous Carts -->
+  <div class="mt-5 p-4 border my-rounded-corner">
+      <h3 class="w-25 border text-center py-2 mb-5 my-rounded-corner">My Orders</h3>
+      <div *ngIf="usersPreviousCarts.length > 0">
+          <div class="card mb-5" *ngFor="let cart of usersPreviousCarts">
+              <div class="card-header d-flex fw-bold justify-content-between align-items-center">
+                  <span class="time">Ordered On: <span class="fs-5">{{ cart.orderedOn | date:"dd-MMM-YYYY" }}</span></span>
+                  <span class="count">Items: {{ cart.cartItems.length }}</span>
+                  <span class="price">Price Paid: <span class="fs-5">{{ utilityService.calculatePricePaid(cart) }}</span></span>
+              </div>
+              <div class="cart-body px-4 py-2">
+                  <div class="row g-0">
+                      <div class="col-2 px-2 py-2" *ngFor="let cartItem of cart.cartItems">
+                          <app-product [view]="'prevcartitem'" [product]="cartItem.product"></app-product>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+      <div *ngIf="usersPreviousCarts.length === 0" class="alert alert-warning col-md-12 text-center" role="alert">
+          No Previous Orders.
+      </div>
+  </div>
+</div>
